@@ -1,1 +1,0 @@
-# aryawicaksanengnaya.github.io
