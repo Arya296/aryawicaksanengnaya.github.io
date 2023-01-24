@@ -1,0 +1,3038 @@
+/* Home Page */
+
+position: relative;
+width: 1440px;
+height: 6405px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+
+/* Contact */
+
+position: absolute;
+width: 1440px;
+height: 440px;
+left: 0px;
+top: 5965px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1440px;
+height: 440px;
+left: 0px;
+top: 0px;
+
+background: #F8F7F1;
+
+
+/* Group 36 */
+
+position: absolute;
+width: 388px;
+height: 89px;
+left: -461px;
+top: 87px;
+
+filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.4));
+
+
+/* Reach Me! */
+
+position: absolute;
+width: 388px;
+height: 89px;
+left: -461px;
+top: 87px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 89px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #0D2F3F;
+
+opacity: 0;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+
+
+/* Group 37 */
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 561px;
+top: 536px;
+
+opacity: 0;
+
+
+/* Ellipse 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 561px;
+top: 536px;
+
+background: #F8F7F1;
+border: 5px solid #0D2F3F;
+
+
+/* Message_alt_fill */
+
+position: absolute;
+width: 63px;
+height: 63px;
+left: 571px;
+top: 541px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 50.91px;
+height: 33px;
+left: 5px;
+top: 19px;
+
+/* fill_icon */
+background: #222222;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 7.94%;
+right: 11.25%;
+top: 30.16%;
+bottom: 17.46%;
+
+/* fill_icon */
+background: #222222;
+border-radius: 3px;
+
+
+/* Vector 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 7.94%;
+right: 11.25%;
+top: 41.38%;
+bottom: 39.91%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Group 38 */
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 680px;
+top: 604px;
+
+opacity: 0;
+
+
+/* Ellipse 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 680px;
+top: 604px;
+
+background: #F8F7F1;
+border: 5px solid #0D2F3F;
+
+
+/* pngwing 3 */
+
+position: absolute;
+width: 56.7px;
+height: 56.7px;
+left: 691.78px;
+top: 615.78px;
+
+background: url(pngwing.png);
+
+
+/* Group 39 */
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 799px;
+top: 631px;
+
+opacity: 0;
+
+
+/* Ellipse 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 799px;
+top: 631px;
+
+background: #F8F7F1;
+border: 5px solid #0D2F3F;
+
+
+/* pngwing 2 */
+
+position: absolute;
+width: 59px;
+height: 57px;
+left: 809px;
+top: 643px;
+
+background: url(pngwing.png);
+
+
+/* ©2023 by Arya Wicaksanengnaya */
+
+position: absolute;
+width: 222px;
+height: 16px;
+left: -246px;
+top: 407px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Recomm Section */
+
+position: absolute;
+width: 1440px;
+height: 1004px;
+left: 5px;
+top: 4961px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 652px;
+height: 89px;
+left: -710px;
+top: 72px;
+
+opacity: 0;
+filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.4));
+
+
+/* Recommendation */
+
+position: absolute;
+width: 652px;
+height: 89px;
+left: -710px;
+top: 72px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 89px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #0D2F3F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+
+
+/* Group 20 */
+
+position: absolute;
+width: 295px;
+height: 25px;
+left: -353px;
+top: 226px;
+
+opacity: 0;
+
+
+/* What people say about me... */
+
+position: absolute;
+width: 295px;
+height: 25px;
+left: -353px;
+top: 226px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #0D2F3F;
+
+
+
+/* Recomm walk */
+
+position: absolute;
+width: 1818px;
+height: 583px;
+left: -1876px;
+top: 317px;
+
+opacity: 0;
+
+
+/* Group 42 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 630px;
+top: 0px;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 630px;
+top: 0px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 558px;
+height: 357px;
+left: 630px;
+top: 55px;
+
+background: #D9D9D9;
+box-shadow: 10px 34px 64px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 110px;
+height: 110px;
+left: 854px;
+top: 0px;
+
+background: #0D2F3F;
+
+
+/* Arya always gives his all when he participates in RevoU Full-Stack Data Analytics programs. Very modest and constantly willing to teach others students. Regarding his abilities, both hard and soft skills, I have no worries. Arya is also very passionate about his work and always eager to learn. I can see him developing into a competent data analyst in the future. */
+
+position: absolute;
+width: 480px;
+height: 96px;
+left: 669px;
+top: 171px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 30px;
+/* or 200% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* Cikal Nikita Edelweiss Nur */
+
+position: absolute;
+width: 323px;
+height: 30px;
+left: 748px;
+top: 337px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* Senior Team Lead at RevoU */
+
+position: absolute;
+width: 270px;
+height: 30px;
+left: 774px;
+top: 367px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 110px;
+height: 110px;
+left: 854px;
+top: 0px;
+
+background: url(image);
+border-radius: 465.5px;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 480px;
+height: 0px;
+left: 669px;
+top: 324px;
+
+opacity: 0.4;
+border: 1px solid #000000;
+
+
+/* Group 43 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 1260px;
+top: 171px;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 1260px;
+top: 171px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 558px;
+height: 357px;
+left: 1260px;
+top: 226px;
+
+background: #D9D9D9;
+box-shadow: 10px 34px 64px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 110px;
+height: 110px;
+left: 1484px;
+top: 171px;
+
+background: #0D2F3F;
+
+
+/* b;ablablab */
+
+position: absolute;
+width: 82px;
+height: 30px;
+left: 1498px;
+top: 375px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 30px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* john doe */
+
+position: absolute;
+width: 110px;
+height: 30px;
+left: 1484px;
+top: 508px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* any */
+
+position: absolute;
+width: 36px;
+height: 30px;
+left: 1521px;
+top: 538px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 480px;
+height: 0px;
+left: 1299px;
+top: 485px;
+
+opacity: 0.4;
+border: 1px solid #000000;
+
+
+/* Group 41 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 0px;
+top: 171px;
+
+
+
+/* Group 35 */
+
+position: absolute;
+width: 558px;
+height: 412px;
+left: 0px;
+top: 171px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 558px;
+height: 357px;
+left: 0px;
+top: 226px;
+
+background: #D9D9D9;
+box-shadow: 10px 34px 64px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 110px;
+height: 110px;
+left: 224px;
+top: 171px;
+
+background: #0D2F3F;
+
+
+/* b;ablablab */
+
+position: absolute;
+width: 82px;
+height: 30px;
+left: 238px;
+top: 375px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 30px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* jane doe */
+
+position: absolute;
+width: 111px;
+height: 30px;
+left: 224px;
+top: 508px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* any */
+
+position: absolute;
+width: 36px;
+height: 30px;
+left: 261px;
+top: 538px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #25383F;
+
+
+
+/* Line 6 */
+
+position: absolute;
+width: 480px;
+height: 0px;
+left: 40px;
+top: 485px;
+
+opacity: 0.4;
+border: 1px solid #000000;
+
+
+/* Latest Project Section */
+
+position: absolute;
+width: 1440px;
+height: 986px;
+left: 0px;
+top: 3975px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1440px;
+height: 986px;
+left: 0px;
+top: 0px;
+
+background: #F8F7F1;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 276px;
+height: 34px;
+left: -396px;
+top: 268px;
+
+
+
+/* Explore more projects */
+
+position: absolute;
+width: 235px;
+height: 30px;
+left: -396px;
+top: 268px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: -154px;
+top: 268px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 16 */
+
+position: absolute;
+width: 553px;
+height: 90px;
+left: -588px;
+top: 101px;
+
+opacity: 0;
+filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.4));
+
+
+/* Latest Projects */
+
+position: absolute;
+width: 550px;
+height: 90px;
+left: -585px;
+top: 101px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 73px;
+line-height: 90px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+border: 1px solid #0D2F3F;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+
+
+/* Latest Projects */
+
+position: absolute;
+width: 548px;
+height: 89px;
+left: -588px;
+top: 101px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 89px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #0D2F3F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+
+
+/* Scrolling Project */
+
+position: absolute;
+width: 1232px;
+height: 496px;
+left: -1310px;
+top: 341px;
+
+opacity: 0;
+
+
+/* AirBnB Listings Singapore Dashboard */
+
+position: absolute;
+width: 365px;
+height: 30px;
+left: 1300px;
+top: 389px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Picture1 1 */
+
+position: absolute;
+width: 371px;
+height: 227px;
+left: 1293px;
+top: 0px;
+
+background: url(Picture1.png);
+border-radius: 26px;
+
+
+/* Picture1 2 */
+
+position: absolute;
+width: 370px;
+height: 143px;
+left: 1294px;
+top: 227px;
+
+background: url(Picture1.png);
+border-radius: 4px;
+
+
+/* TheLook eCommerce Analysis */
+
+position: absolute;
+width: 291px;
+height: 30px;
+left: 901px;
+top: 394px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* COVID-19 Vaccination Dashboard */
+
+position: absolute;
+width: 333px;
+height: 30px;
+left: 449px;
+top: 393px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* NYC Traffic Accident Analysis */
+
+position: absolute;
+width: 288px;
+height: 30px;
+left: 41px;
+top: 389px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* sdf 1 */
+
+position: absolute;
+width: 370px;
+height: 375px;
+left: 431px;
+top: 0px;
+
+background: url(sdf.png);
+border-radius: 39px;
+
+
+/* 9-Steps-to-Make-Your-eCommerce-Store-User-Friendly-1 1 */
+
+position: absolute;
+width: 370px;
+height: 370px;
+left: 862px;
+top: 0px;
+
+background: url(9-Steps-to-Make-Your-eCommerce-Store-User-Friendly-1.jpg);
+border-radius: 41px;
+
+
+/* shutterstock_607907531-e1570126999743 2 */
+
+position: absolute;
+width: 370px;
+height: 370px;
+left: 0px;
+top: 0px;
+
+background: url(shutterstock_607907531-e1570126999743.png);
+border-radius: 47px;
+
+
+/* Group 32 */
+
+position: absolute;
+width: 64px;
+height: 25px;
+left: 584px;
+top: 471px;
+
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 584px;
+top: 471px;
+
+background: #286F6C;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 623px;
+top: 471px;
+
+background: #A99E9E;
+
+
+/* Skills Section */
+
+position: absolute;
+width: 1440px;
+height: 1231px;
+left: 5px;
+top: 2752px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 1440px;
+height: 1231px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Exploratory Data Analysis, descriptive statistics, correlation, regression analysis. */
+
+position: absolute;
+width: 457px;
+height: 96px;
+left: -521px;
+top: 432px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+opacity: 0;
+
+
+/* Exploratory Data Analysis and create customer segmentation using RFM clustering and K-Means clustering. */
+
+position: absolute;
+width: 459px;
+height: 92px;
+left: -494px;
+top: 723px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+opacity: 0;
+
+
+/* Exploratory Data Visualization and create advanced interactive dashboards for reporting. Transforming large datasets into simple, informative, and customizable reports. */
+
+position: absolute;
+width: 980px;
+height: 92px;
+left: -1073px;
+top: 1010px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+opacity: 0;
+
+
+/* Store, manipulate, and retrieve data from databases and perform cohort analysis. */
+
+position: absolute;
+width: 459px;
+height: 92px;
+left: 1440px;
+top: 425px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+opacity: 0;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 525px;
+height: 89px;
+left: -564px;
+top: 117px;
+
+opacity: 0;
+filter: drop-shadow(0px 4px 1px rgba(0, 0, 0, 0.4));
+
+
+/* Technical Skills */
+
+position: absolute;
+width: 522px;
+height: 89px;
+left: -561px;
+top: 117px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 89px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+border: 1px solid #0D2F3F;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+
+
+/* Technical Skills */
+
+position: absolute;
+width: 522px;
+height: 86px;
+left: -564px;
+top: 118px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 86px;
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+
+
+/* Group 10 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -424px;
+top: 576px;
+
+opacity: 0;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -424px;
+top: 576px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 104px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* See related projects */
+
+position: absolute;
+width: 228px;
+height: 31px;
+left: -290px;
+top: 646px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 76px;
+height: 76px;
+left: -389px;
+top: 601px;
+
+background: #F26440;
+
+
+/* Python */
+
+position: absolute;
+width: 86px;
+height: 31px;
+left: -290px;
+top: 608px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: -64px;
+top: 648px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c89ecd95 1 */
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: -386px;
+top: 610px;
+
+background: url(kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c89ecd95.png);
+
+
+/* Group 9 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: 1394px;
+top: 876px;
+
+opacity: 0;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: 1394px;
+top: 876px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 104px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* See related projects */
+
+position: absolute;
+width: 228px;
+height: 31px;
+left: 1528px;
+top: 946px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 76px;
+height: 76px;
+left: 1429px;
+top: 901px;
+
+background: #FB8122;
+
+
+/* Looker Studio */
+
+position: absolute;
+width: 172px;
+height: 31px;
+left: 1528px;
+top: 908px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1754px;
+top: 948px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Looker 1 */
+
+position: absolute;
+width: 35px;
+height: 55px;
+left: 1449px;
+top: 912px;
+
+background: url(Looker.png);
+
+
+/* Group 13 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -459px;
+top: 876px;
+
+opacity: 0;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -459px;
+top: 876px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 104px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* See related projects */
+
+position: absolute;
+width: 228px;
+height: 31px;
+left: -325px;
+top: 946px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 76px;
+height: 76px;
+left: -424px;
+top: 901px;
+
+background: #7798B6;
+
+
+/* Tableau */
+
+position: absolute;
+width: 100px;
+height: 31px;
+left: -325px;
+top: 908px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: -99px;
+top: 948px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* pngwing 2 */
+
+position: absolute;
+width: 59px;
+height: 57px;
+left: -416px;
+top: 910px;
+
+background: url(pngwing.png);
+
+
+/* Group 14 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -459px;
+top: 281px;
+
+opacity: 0;
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: -459px;
+top: 281px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 104px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* See related projects */
+
+position: absolute;
+width: 228px;
+height: 31px;
+left: -325px;
+top: 351px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 76px;
+height: 76px;
+left: -424px;
+top: 306px;
+
+background: #286F6C;
+
+
+/* Spreadsheets */
+
+position: absolute;
+width: 177px;
+height: 32px;
+left: -325px;
+top: 312px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: -99px;
+top: 353px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* kisspng-microsoft-excel-spreadsheet-computer-software-powe-behind-background-5ad9f669af7c59 2 */
+
+position: absolute;
+width: 74px;
+height: 74px;
+left: -424px;
+top: 307px;
+
+background: url(kisspng-microsoft-excel-spreadsheet-computer-software-powe-behind-background-5ad9f669af7c59.png);
+
+
+/* Group 15 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: 1440px;
+top: 279px;
+
+opacity: 0;
+
+
+/* Group 12 */
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: 1440px;
+top: 279px;
+
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 459px;
+height: 134px;
+left: 1440px;
+top: 279px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 104px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* See related projects */
+
+position: absolute;
+width: 228px;
+height: 31px;
+left: 1574px;
+top: 349px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 76px;
+height: 76px;
+left: 1475px;
+top: 304px;
+
+background: #F1C249;
+
+
+/* SQL */
+
+position: absolute;
+width: 49px;
+height: 31px;
+left: 1574px;
+top: 311px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* pngwing 1 */
+
+position: absolute;
+width: 53px;
+height: 53px;
+left: 1488px;
+top: 315px;
+
+background: url(pngwing.png);
+
+
+/* Arrow_right */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1797px;
+top: 353px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 83.33%;
+right: -45.83%;
+top: 25%;
+bottom: 25%;
+
+/* Line_icon */
+border: 2px solid #33363F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Experiences Section */
+
+position: absolute;
+width: 1440px;
+height: 974px;
+left: 1px;
+top: 1778px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 1440px;
+height: 974px;
+left: 0px;
+top: 0px;
+
+background: #F8F7F1;
+
+
+/* Experiences */
+
+position: absolute;
+width: 433px;
+height: 86px;
+left: -490px;
+top: 105px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 86px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #0D2F3F;
+
+opacity: 0;
+text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+
+
+/* Group 25 */
+
+position: absolute;
+width: 480px;
+height: 261px;
+left: 1440px;
+top: 263px;
+
+opacity: 0;
+
+
+/* Apply Python scripts to collect, prepare, analyze and visualize or export data. Apply basic machine learning algorithms. Apply data visualization and storytelling techniques to communicate results of analysis. Explain the fundamental concepts behind the main Big Data platforms. */
+
+position: absolute;
+width: 480px;
+height: 213px;
+left: 1440px;
+top: 311px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Big Data Using Python */
+
+position: absolute;
+width: 277px;
+height: 31px;
+left: 1440px;
+top: 263px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Group 26 */
+
+position: absolute;
+width: 480px;
+height: 188px;
+left: 1440px;
+top: 634px;
+
+opacity: 0;
+
+
+/* Analyze the data on Revenue and Expenses. Determine the optimal stock supply so that there is no excess or shortage of stock. Managed to increase the profit gained by 26.83% daily using the mathematical method. */
+
+position: absolute;
+width: 480px;
+height: 96px;
+left: 1440px;
+top: 726px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Sales Optimization */
+
+position: absolute;
+width: 237px;
+height: 31px;
+left: 1440px;
+top: 634px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 95px;
+height: 588px;
+left: 662px;
+top: -645px;
+
+opacity: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 46px;
+height: 46px;
+left: 687px;
+top: -620px;
+
+background: #286F6C;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 46px;
+height: 46px;
+left: 687px;
+top: -247px;
+
+background: #286F6C;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 662px;
+top: -645px;
+
+border: 2px dashed #000000;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 662px;
+top: -272px;
+
+border: 2px dashed #000000;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 280px;
+height: 0px;
+left: 710px;
+top: -552px;
+
+border: 1px dashed #000000;
+transform: rotate(90deg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 122px;
+height: 0px;
+left: 710px;
+top: -179px;
+
+border: 1px dashed #000000;
+transform: rotate(90deg);
+
+
+/* Group 24 */
+
+position: absolute;
+width: 407px;
+height: 150px;
+left: -407px;
+top: 631px;
+
+opacity: 0;
+
+
+/* Feb 2021 - April 2021 */
+
+position: absolute;
+width: 233px;
+height: 35px;
+left: -279px;
+top: 746px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Apprenticeship */
+
+position: absolute;
+width: 165px;
+height: 35px;
+left: -279px;
+top: 711px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Ayabe Small & Medium Enterprises */
+
+position: absolute;
+width: 279px;
+height: 45px;
+left: -279px;
+top: 650px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* d1fa1fc53f96eafb8f83c84716920ce5_tn 1 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: -407px;
+top: 631px;
+
+background: url(d1fa1fc53f96eafb8f83c84716920ce5_tn.jpg);
+border-radius: 100px;
+
+
+/* Group 23 */
+
+position: absolute;
+width: 448px;
+height: 128px;
+left: -490px;
+top: 254px;
+
+opacity: 0;
+
+
+/* Jul 2022 - Aug 2022 */
+
+position: absolute;
+width: 215px;
+height: 35px;
+left: -363px;
+top: 347px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Apprenticeship */
+
+position: absolute;
+width: 165px;
+height: 35px;
+left: -363px;
+top: 308px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Digital Talent Scholarship */
+
+position: absolute;
+width: 321px;
+height: 31px;
+left: -363px;
+top: 271px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* featured_channel 1 */
+
+position: absolute;
+width: 106px;
+height: 106px;
+left: -490px;
+top: 254px;
+
+background: url(featured_channel.png);
+
+
+/* Education Section */
+
+position: absolute;
+width: 1440px;
+height: 894px;
+left: 0px;
+top: 884px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 1440px;
+height: 894px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Intensive 13 weeks data analytics online learning program with instructors from tech industries such as Tokopedia, Grab, Halodoc, Vidio, etc. I managed to: Learn the fundamental, with hands-on experience in an end-to-end data analytics process based on real business cases. Get awarded as the Best Assignment in Data Visualization module. Become the Project Lead for Group Final Project. */
+
+position: absolute;
+width: 594px;
+height: 285px;
+left: 1440px;
+top: 255px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #0D2F3F;
+
+opacity: 0;
+
+
+/* Actively participated in organizations and graduated with thesis “Multi-Step Differential Transform Method for Solving COVID-19 Transmission Model” */
+
+position: absolute;
+width: 576px;
+height: 96px;
+left: 1458px;
+top: 645px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #0D2F3F;
+
+opacity: 0;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1128px;
+height: 0px;
+left: -1180px;
+top: 595px;
+
+opacity: 0;
+border: 4px solid #0D2F3F;
+
+
+/* Group 44 */
+
+position: absolute;
+width: 398px;
+height: 115px;
+left: -511px;
+top: 257px;
+
+opacity: 0;
+
+
+/* Full Stack Data Analytics */
+
+position: absolute;
+width: 273px;
+height: 35px;
+left: -386px;
+top: 283px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Grade: 97.22/100 */
+
+position: absolute;
+width: 191px;
+height: 35px;
+left: -386px;
+top: 310px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* 2022 */
+
+position: absolute;
+width: 52px;
+height: 35px;
+left: -386px;
+top: 337px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* RevoU */
+
+position: absolute;
+width: 77px;
+height: 31px;
+left: -386px;
+top: 257px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Logo-RevoU-5 1 */
+
+position: absolute;
+width: 87px;
+height: 87px;
+left: -511px;
+top: 260px;
+
+background: url(Logo-RevoU-5.png);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 420px;
+height: 134px;
+left: -519px;
+top: 648px;
+
+opacity: 0;
+
+
+/* Bachelor of Mathematics */
+
+position: absolute;
+width: 275px;
+height: 35px;
+left: -391px;
+top: 681px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* GPA: 3.49/4.00 */
+
+position: absolute;
+width: 161px;
+height: 35px;
+left: -391px;
+top: 714px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* 2018-2022 */
+
+position: absolute;
+width: 114px;
+height: 35px;
+left: -391px;
+top: 747px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+
+
+/* Universitas Diponegoro */
+
+position: absolute;
+width: 292px;
+height: 31px;
+left: -391px;
+top: 652px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+
+
+/* Undip 1 */
+
+position: absolute;
+width: 90px;
+height: 105px;
+left: -519px;
+top: 648px;
+
+background: url(Undip.png);
+
+
+/* Education */
+
+position: absolute;
+width: 371px;
+height: 89px;
+left: -423px;
+top: 89px;
+
+opacity: 0;
+
+
+/* Education */
+
+position: absolute;
+width: 363px;
+height: 89px;
+left: -415px;
+top: 89px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 89px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+border: 1px solid #0D2F3F;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+
+
+/* Education */
+
+position: absolute;
+width: 367px;
+height: 86px;
+left: -423px;
+top: 89px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 86px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+
+color: #0D2F3F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+
+
+/* About me Section */
+
+position: absolute;
+width: 1440px;
+height: 799px;
+left: 0px;
+top: 85px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1440px;
+height: 799px;
+left: 0px;
+top: 0px;
+
+background: #F8F7F1;
+opacity: 0;
+
+
+/* Hi, I’m Arya Wicaksanengnaya, */
+
+position: absolute;
+width: 566px;
+height: 54px;
+left: 159px;
+top: -329px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+opacity: 0;
+
+
+/* Group 20 */
+
+position: absolute;
+width: 635.91px;
+height: 595.43px;
+left: 833px;
+top: 874px;
+
+opacity: 0;
+
+
+/* toppng 1 */
+
+position: absolute;
+width: 486.49px;
+height: 254.38px;
+left: 1083.68px;
+top: 874px;
+
+transform: rotate(50.32deg);
+
+
+/* toppng 2 */
+
+position: absolute;
+width: 428.38px;
+height: 254.38px;
+left: 1272.76px;
+top: 1402.08px;
+
+transform: rotate(-129.55deg);
+
+
+/* toppng 3 */
+
+position: absolute;
+width: 486.49px;
+height: 236.75px;
+left: 1206.55px;
+top: 1453.1px;
+
+transform: rotate(-134.33deg);
+
+
+/* toppng 4 */
+
+position: absolute;
+width: 486.49px;
+height: 236.75px;
+left: 1172.93px;
+top: 1469.43px;
+
+transform: rotate(-134.33deg);
+
+
+/* IMG_20210803_185903_223-removebg-preview 2 */
+
+position: absolute;
+width: 423.75px;
+height: 423.75px;
+left: 968px;
+top: 821.25px;
+
+opacity: 0;
+border-radius: 87px;
+transform: rotate(-0.3deg);
+
+
+/* Data Enthusiast */
+
+position: absolute;
+width: 518px;
+height: 54px;
+left: 160px;
+top: -275px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+
+color: #0D2F3F;
+
+opacity: 0;
+
+
+/* Mathematics graduate who loves to take challenges and works hard toward expertise in the fields of data analytics. Proficient in Math and Statistics, and also familiar with Spreadsheet, SQL, Python, Tableau, and Looker Studio, as well as being a problem solver and a good communicator. A detail-oriented person who not only has strong technical analytics skills but also can provide recommendations to create an impactful decision. */
+
+position: absolute;
+width: 560px;
+height: 235px;
+left: 159px;
+top: -384px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+/* or 175% */
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #25383F;
+
+opacity: 0;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 223px;
+height: 48px;
+left: -499px;
+top: 424px;
+
+opacity: 0;
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 223px;
+height: 48px;
+left: -499px;
+top: 424px;
+
+border: 3px solid #0D2F3F;
+border-radius: 15px;
+
+
+/* Download CV */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: -446.29px;
+top: 435px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Download */
+
+position: absolute;
+width: 23.47px;
+height: 24px;
+left: -477.59px;
+top: 435px;
+
+
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 25%;
+right: 23.88%;
+top: 66.67%;
+bottom: -15.57%;
+
+border: 2px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Vector 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 87.5%;
+bottom: 12.5%;
+
+border: 2px solid #000000;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 184px;
+height: 48px;
+left: -435px;
+top: 549px;
+
+opacity: 0;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 184px;
+height: 48px;
+left: -435px;
+top: 549px;
+
+background: #0D2F3F;
+border-radius: 15px;
+
+
+/* Message */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: -409px;
+top: 558.5px;
+
+border-radius: 15px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 25%;
+bottom: 25%;
+
+border: 2px solid #FFFFFF;
+border-radius: 2px;
+
+
+/* Vector 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 37.5%;
+bottom: 45.83%;
+
+border: 2px solid #FFFFFF;
+border-radius: 2px;
+
+
+/* Email Me */
+
+position: absolute;
+width: 99px;
+height: 25px;
+left: -375px;
+top: 558px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 1440px;
+height: 85px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 85px;
+left: 0px;
+top: 0px;
+
+background: #F8F7F1;
+
+
+/* Skills */
+
+position: absolute;
+width: 39px;
+height: 20px;
+left: 987px;
+top: 33px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Education */
+
+position: absolute;
+width: 80px;
+height: 20px;
+left: 782px;
+top: 33px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Experience */
+
+position: absolute;
+width: 89px;
+height: 20px;
+left: 880px;
+top: 33px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Projects */
+
+position: absolute;
+width: 64px;
+height: 20px;
+left: 1044px;
+top: 32px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Recommendation */
+
+position: absolute;
+width: 141px;
+height: 20px;
+left: 1126px;
+top: 32px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 65px;
+height: 20px;
+left: 1285px;
+top: 33px;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* About Me */
+
+position: absolute;
+left: 47.64%;
+right: 46.94%;
+top: 0.52%;
+bottom: 99.17%;
+
+font-family: 'Caros';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
