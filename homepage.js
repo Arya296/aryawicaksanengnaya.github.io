@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styles from './home-page.module.css'
+import styles from './homepage.css'
 
 const HomePage = (props) => {
   return (
